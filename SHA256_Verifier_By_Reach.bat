@@ -27,3 +27,4 @@ if "%SHA256%" equ "%ori_sha256%" (
 Echo:
 Echo:
 Echo # Shoutout to Reach =)	#
+Pause
